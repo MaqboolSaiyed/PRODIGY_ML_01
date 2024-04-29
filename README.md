@@ -25,9 +25,9 @@ Example Output:
 R-squared score: 0.75  
 Mean Squared Error: 123456.78 
 
-           Actual      Predicted
-0      1234567.0  1189034.21
-1       876543.2   901234.56
+Actual      Predicted
+1234567.0  1189034.21
+876543.2   901234.56
 
 Disclaimer:
 
